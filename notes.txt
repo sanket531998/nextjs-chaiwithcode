@@ -1,0 +1,16 @@
+1] Connecting to DB 
+
+  Next js is compartively a different framework, it is a edge time framework. As in, the backend does not run continiously it only runs when there is a request from user. 
+  Runs only when there is a demand
+
+  So if our backend is not running all the time, so the DB is also not connected all time 
+  Jaise jaise request jati hai waise waise connection banta hai 
+
+  IMP: whenever you make a next js application make sure the DB is already connected or not, 
+  if not connected then only try to connect it 
+  But if connected, no need to connect again  
+
+2] SignUp 
+    
+  We will learn both core signup and using authjs/ next auth
+  resend email 
